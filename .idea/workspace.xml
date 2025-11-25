@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41546f0c-3648-44b6-9970-a3a0566c63d1" name="Changes" comment="Added Input and Print the name with Hello.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Get2Inputs.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;astalakshmi3&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/astalakshmi3/java-fundamental.git&quot;,
+    &quot;accountId&quot;: &quot;f41bf363-2515-4c19-b054-6d7ae68b4ea1&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="35uyTyNMyGPX5WfM28nBBXzrc6U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Avg.executor": "Run",
+    "Application.Get2Inputs.executor": "Run",
+    "Application.InputAndPrint.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.Year.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.operater.executor": "Run",
+    "Application.operators.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/deltagaren/IdeaProjects/java-fundamental/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41546f0c-3648-44b6-9970-a3a0566c63d1" name="Changes" comment="" />
+      <created>1763974268555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763974268555</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added Leap year">
+      <option name="closed" value="true" />
+      <created>1764071808471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764071808471</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added operater">
+      <option name="closed" value="true" />
+      <created>1764073554371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764073554371</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Avg">
+      <option name="closed" value="true" />
+      <created>1764074678469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764074678469</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Input and Print the name with Hello.">
+      <option name="closed" value="true" />
+      <created>1764075940387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764075940387</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Leap year" />
+    <MESSAGE value="Added Operater" />
+    <MESSAGE value="Added operater" />
+    <MESSAGE value="Added Avg" />
+    <MESSAGE value="Added Input and Print the name with Hello." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Input and Print the name with Hello." />
+  </component>
+</project>
