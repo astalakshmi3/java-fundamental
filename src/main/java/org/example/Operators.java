@@ -1,7 +1,7 @@
 package org.example;
 //import java.util.Scanner;
 public class Operators {
-        public static void main ()
+        public static void main (String[] args)
         {
 
             System.out.println(45 + "+" + 11 + "=" + (45+11));
